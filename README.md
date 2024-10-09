@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡Bienvenid@ a mi GitHub! 🎉
 
 <!--
 **MariaSanchezFernandez/MariaSanchezFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
