@@ -15,9 +15,7 @@
 
 ---
 
-### 🎯 &nbsp;Habilidades Técnicas:
-
-#### 🚀 Lenguajes de Programación:
+#### <div align="center">🚀 Lenguajes de Programación:</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Java" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;&nbsp;
@@ -26,7 +24,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />&nbsp;&nbsp;
 </p>
 
-#### 🛠️ Herramientas de Desarrollo:
+#### <div align="center">🛠️ Herramientas de Desarrollo:</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />&nbsp;&nbsp;
 </p>
 
-#### 🎨 Diseño y UX/UI:
+#### <div align="center">🎨 Diseño y UX/UI:</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />&nbsp;&nbsp;
@@ -43,18 +41,17 @@
   <img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash" />
 </p>
 
-#### 🌐 Tecnologías Web:
+#### <div align="center">🌐 Tecnologías Web:</div>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-#### 💾 Bases de Datos:
+#### <div align="center">💾 Bases de Datos:</div>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
 ---
 
 
