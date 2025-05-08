@@ -1,16 +1,11 @@
 ## ¡Hola, soy María Sánchez Fernández! 👋
 <div align="center">
-  <p>Soy una desarrolladora apasionada por crear soluciones innovadoras y eficaces. Me encanta aprender nuevas tecnologías, colaborar en proyectos de código abierto y ayudar a la comunidad.</p>
   
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/mariasanchezfernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <!-- Website Badge -->
-  <a href="https://www.mariasanchezfdez.es/" target="_blank">
-    <img src="https://img.shields.io/badge/Página_Web-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Página Web" />
-  </a>
 </div>
 
 ---
@@ -57,35 +52,7 @@
 
 ### 🌟 &nbsp;Proyectos Destacados:
 
-- [🚀 **OlivaTour**](https://github.com/MariaSanchezFernandez/olivatour): Proyecto completo de desarrollo en Kotlin usando Android Studio.
+- [🚀 **OlivaTour**](https://github.com/MariaSanchezFernandez/olivatour): Proyecto completo de desarrollo Xcode.
 - [🔧 **Plans**](https://github.com/devJuanMartinez/Plans): Aplicación colaborativa para la puntuación de películas.
 
 
----
-
-### 📊 &nbsp;Estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaSanchezFernandez&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaSanchezFernandez&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  ¡Gracias! 😊
-</div>
-<!--
-**MariaSanchezFernandez/MariaSanchezFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
