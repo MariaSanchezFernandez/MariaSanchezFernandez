@@ -57,7 +57,7 @@
 
 ### 🌟 &nbsp;Proyectos Destacados:
 
-- [🚀 **Proyecto de Programación**](https://github.com/MariaSanchezFernandez/proyectoProgramacion): Proyecto completo de desarrollo en Kotlin usando Android Studio.
+- [🚀 **OlivaTour**](https://github.com/MariaSanchezFernandez/olivatour): Proyecto completo de desarrollo en Kotlin usando Android Studio.
 - [🔧 **Plans**](https://github.com/devJuanMartinez/Plans): Aplicación colaborativa para la puntuación de películas.
 
 
