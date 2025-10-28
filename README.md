@@ -1,12 +1,16 @@
 ## ¡Hola, soy María Sánchez Fernández! 👋
 <div align="center">
   
-  <!-- LinkedIn Badge -->
+### 📬 Contacto:
+<p align="center">
+  📧 <a href="mailto:sanchez.fdez.maria@gmail.com"><strong>sanchez.fdez.maria@gmail.com</strong></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mariasanchezfernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-</div>
+</p>
 
 ---
 
@@ -49,6 +53,8 @@
 
 #### <div align="center">🌐 Tecnologías Web:</div>
 <p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GoHighLevel-6C4CFF?style=for-the-badge&logo=gohighlevel&logoColor=white" alt="GoHighLevel" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
@@ -60,10 +66,15 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+---
 
-### 🌟 &nbsp;Proyectos Destacados:
+### 💼 Proyectos Destacados:
 
-- [🚀 **OlivaTour**](https://github.com/MariaSanchezFernandez/olivatour): Proyecto completo de desarrollo Xcode.
-- [🔧 **Plans**](https://github.com/devJuanMartinez/Plans): Aplicación colaborativa para la puntuación de películas.
+#### 🚀 [OlivaTour](https://github.com/MariaSanchezFernandez/olivatour)
+App iOS de turismo | `Swift` `SwiftUI` `Xcode`
 
+#### 🔧 [Plans](https://github.com/devJuanMartinez/Plans)
+App Android de valoración de películas | `Kotlin` `Android Studio`
 
+#### 👩‍🏫 [Una Maestra Muy Especial](https://unamaestramuyespecial.es)
+Web de preparación oposiciones PT | `WordPress` `PHP` `HTML` `CSS`
